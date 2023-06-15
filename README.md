@@ -1,4 +1,4 @@
-**Be sure to run fake data server with 'npm run server'**
+**Be sure to run fake data server with `npm run server`**
 
 # Getting Started with Create React App
 
